@@ -1,4 +1,4 @@
-package secure_bucket
+package main
 
 import (
 	"github.com/pulumi/pulumi-aws/sdk/v6/go/aws/s3"
